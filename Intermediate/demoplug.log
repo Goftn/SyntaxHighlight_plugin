@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Přístup k cestě c:\users\jan\documents\github\bc_altap\as_sdk\salamand\plugins\demoplug\vcproj2019\vc2019\debug_x64\plugins\syntaxhighlight\syntaxhighlight.spl byl odepřen.
+  precomp.cpp
+  auxtools.cpp
+  dbg.cpp
+  mhandles.cpp
+  winliblt.cpp
+  archiver.cpp
+  demoplug.cpp
+  dialogs.cpp
+  fs1.cpp
+  fs2.cpp
+  ieviewer.cpp
+  menu.cpp
+  thumbldr.cpp
+  viewer.cpp
+LINK : fatal error LNK1104: Soubor vc2019\Debug_x64\plugins\SyntaxHighlight\SyntaxHighlight.spl se nedá otevřít.
