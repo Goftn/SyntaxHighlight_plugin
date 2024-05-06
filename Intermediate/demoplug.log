@@ -1,5 +1,4 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Přístup k cestě c:\users\jan\documents\github\bc_altap\as_sdk\salamand\plugins\demoplug\vcproj2019\vc2019\debug_x64\plugins\syntaxhighlight\syntaxhighlight.spl byl odepřen.
-  precomp.cpp
+﻿  precomp.cpp
   auxtools.cpp
   dbg.cpp
   mhandles.cpp
@@ -13,4 +12,12 @@
   menu.cpp
   thumbldr.cpp
   viewer.cpp
-LINK : fatal error LNK1104: Soubor vc2019\Debug_x64\plugins\SyntaxHighlight\SyntaxHighlight.spl se nedá otevřít.
+     Vytváří se knihovna vc2019\Release_x64\plugins\SyntaxHighlight\SyntaxHighlight.lib a objekt vc2019\Release_x64\plugins\SyntaxHighlight\SyntaxHighlight.exp.
+SyntaxHighlight.exp : warning LNK4070: Direktiva /OUT:DEMOPLUG.SPL v souboru .exp se liší od názvu výstupního souboru vc2019\Release_x64\plugins\SyntaxHighlight\SyntaxHighlight.spl. Direktiva se ignoruje.
+  Vytváří se kód.
+  Vytváření kódu se dokončilo.
+SyntaxHighlight.exp : warning LNK4070: Direktiva /OUT:DEMOPLUG.SPL v souboru .exp se liší od názvu výstupního souboru vc2019\Release_x64\plugins\SyntaxHighlight\SyntaxHighlight.spl. Direktiva se ignoruje.
+  demoplug.vcxproj -> C:\Users\Jan\Documents\GitHub\BC_ALTAP\AS_SDK\salamand\plugins\demoplug\vcproj2019\vc2019\Release_x64\plugins\SyntaxHighlight\SyntaxHighlight.spl
+  Systém nemůže nalézt uvedenou cestu.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: Příkaz call %CURRENT_LOCAL%\Fine\Tools\CodeSign\sign_with_retry.cmd "C:\Users\Jan\Documents\GitHub\BC_ALTAP\AS_SDK\salamand\plugins\demoplug\vcproj2019\vc2019\Release_x64\plugins\SyntaxHighlight\SyntaxHighlight.spl"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd byl ukončen s kódem 1.

@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Jan\Documents\GitHub\BC_ALTAP\AS_SDK\salamand\plugins\demoplug\vcproj2019\vc2019\Debug_x64\plugins\demoplug\lang\english.slg</FullPath>
+      <FullPath>C:\Users\Jan\Documents\GitHub\BC_ALTAP\AS_SDK\salamand\plugins\demoplug\vcproj2019\vc2019\Release_x64\plugins\demoplug\lang\english.slg</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\Jan\Documents\GitHub\BC_ALTAP\AS_SDK\salamand\plugins\demoplug\vcproj2019\vc2019\Debug_x64\plugins\SyntaxHighlight\SyntaxHighlight.spl</FullPath>
+      <FullPath>C:\Users\Jan\Documents\GitHub\BC_ALTAP\AS_SDK\salamand\plugins\demoplug\vcproj2019\vc2019\Release_x64\plugins\SyntaxHighlight\SyntaxHighlight.spl</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
