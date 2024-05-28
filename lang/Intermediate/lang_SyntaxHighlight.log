@@ -1,2 +1,1 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Přístup k cestě c:\users\jan\documents\github\bc_altap\as_sdk\salamand\plugins\demoplug\vcproj2019\vc2019\release_x64\plugins\demoplug\lang\english.slg byl odepřen.
-LINK : fatal error LNK1104: Soubor vc2019\Release_x64\plugins\demoplug\lang\english.slg se nedá otevřít.
+﻿  lang_SyntaxHighlight.vcxproj -> C:\Users\Jan\Documents\GitHub\BC_ALTAP\AS_SDK\salamand\plugins\SyntaxHighlight\vcproj2019\vc2019\Release_x64\plugins\demoplug\lang\english.slg
